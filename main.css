@@ -1,0 +1,33 @@
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    background-color: black;
+    color: white;
+    padding: 15px 25px;
+    cursor: pointer;
+}
+.h2{
+text-align: center;
+position: relative;
+bottom:700px;
+font-size: 1.4rem;
+color: white;
+font-weight: 600;
+}
+video{
+    width: 430px;
+    border-radius: 13px;
+    display: flex;
+    flex-direction: column;
+}
+div{
+    display:flex;
+    gap: 50px;
+    position: relative;
+    bottom: 55px;
+}
+body{
+    background-color: black;
+}
